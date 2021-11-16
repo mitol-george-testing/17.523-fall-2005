@@ -1,0 +1,48 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Ethnography"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ],
+    [
+      "Social Science",
+      "Sociology",
+      "Social Justice"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c7854ca2-cdc7-a6be-4720-6db4bbddda07"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Ethnicity and Race in World Politics",
+  "course_description": "Discerning the ethnic and racial dimensions of politics is considered by some indispensable to understanding contemporary world politics. This course seeks to answer fundamental questions about racial and ethnic politics. To begin, what are the bases of ethnic and racial identities? What accounts for political mobilization based upon such identities? What are the political claims and goals of such mobilization and is conflict between groups and/or with government forces inevitable? How do ethnic and racial identities intersect with other identities, such as gender and class, which are themselves the sources of social, political, and economic cleavages? Finally, how are domestic ethnic/racial politics connected to international human rights? To answer these questions, the course begins with an introduction to dominant theoretical approaches to racial and ethnic identity. The course then considers these approaches in light of current events in Africa, Asia, Latin America, Europe, and the United States.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.523",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
